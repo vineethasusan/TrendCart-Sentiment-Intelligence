@@ -13,16 +13,16 @@ This project analyzes e-commerce reviews using NLP and machine learning to class
 ## 📊 Sample Visuals
 
 ### 🔹 Sentiment Trend Over Time
-![Sentiment Trend](visuals/sentiment_trend.png)
+![Sentiment Trend](sentiment_trend.png)
 
 ### 🔹 Sentiment % by Product Category
-![Sentiment by Category](visuals/sentiment_by_category.png)
+![Sentiment by Category](sentiment_by_category.png)
 
 ### 🔹 Top Complaint Keywords
-![Top Complaints](visuals/top_complaints.png)
+![Top Complaints](top_complaints.png)
 
 ### 🔹 WordCloud Layout (Positive | Negative | Neutral)
-![WordClouds](visuals/sentiment_wordclouds.png)
+![WordClouds](sentiment_wordclouds.png)
 
 ---
 
